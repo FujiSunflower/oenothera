@@ -1,4 +1,6 @@
 # Oenothera
 Fuji SunflowerによるVRM 0系に関する調査です。  
-VRM公式ドキュメントに書くのが本来の筋ですが、ページが細切れにされて見つからなくなってしまうので自分用のWikiを用意しました。  
-Oenotheraの読み方はオエノセラでは月見草のことです。ひっそり暮らしていけたらいいですね。
+VRMドキュメントに書くのが正しいのですが、ページが細切れにされて見つからなくなってしまうので自分用のWikiを用意しました。  
+Oenotheraの読み方はオエノセラでは月見草のことです。ひっそり暮らしていけたらいいですね。 
+# Wiki
+https://github.com/FujiSunflower/oenothera/wiki
