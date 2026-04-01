@@ -1,6 +1,6 @@
 # Oenothera
 Fuji SunflowerによるVRM 0系に関する調査です。  
-VRMドキュメントに書くのが正しいのですが、ページが細切れにされて見つからなくなってしまうので自分用のWikiを用意しました。  
+OSSならばVRMドキュメントに書くのが正しいのですが、ページが細切れにされて見つからなくなってしまうので自分用のWikiを用意しました。  
 Oenotheraの読み方はオエノセラで月見草のことです。ひっそり暮らしていけたらいいですね。
 
 This is the research about VRM v0 by Fuji Sunflower.  
